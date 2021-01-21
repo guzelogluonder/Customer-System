@@ -57,5 +57,3 @@ v0.1
 ## Authors
 
 Önder Guzeloglu - Initial work"# Customer-System" 
-"# Customer-System" 
-"# Customer-System" 
